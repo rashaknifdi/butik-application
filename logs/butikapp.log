@@ -1,31 +1,19 @@
-2025-10-17 15:19:10 [main] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
-2025-10-17 15:19:11 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
-2025-10-17 15:19:21 [main] INFO  com.myapp.util.LoggerUtil - Produkt: laptop, har tillagd: i kategorin: el, med priset: 8000.0 kr
-2025-10-17 15:19:43 [main] ERROR com.myapp.util.LoggerUtil - Felaktigt pris: -90.0
-2025-10-17 15:19:50 [main] INFO  com.myapp.util.LoggerUtil - Produkt: mus, har tillagd: i kategorin: el, med priset: 90.0 kr
-2025-10-17 15:20:00 [main] INFO  com.myapp.util.LoggerUtil - Order med ID: a109dce8har lagts till kund: rasha
-2025-10-17 15:20:10 [main] INFO  com.myapp.util.LoggerUtil - Hämtar alla produkter...............
-2025-10-17 15:20:11 [main] INFO  com.myapp.util.LoggerUtil - Hämtar alla ordrar...............
-2025-10-17 15:20:18 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades för kund: reem
-2025-10-17 15:20:23 [main] INFO  com.myapp.util.LoggerUtil - Hämtar ordrar för kund: rasha.................
-2025-10-17 15:20:30 [main] ERROR com.myapp.util.LoggerUtil - Det gick inte att visa produkter i kategorin "home"
-2025-10-17 15:20:34 [main] INFO  com.myapp.util.LoggerUtil - Hämtar produkter i kategorin: el  (sorterade efter pris) stigande...............
-2025-10-17 15:20:41 [main] INFO  com.myapp.util.LoggerUtil - Hämtar totalt värde spenderat för kund............... 
-2025-10-17 15:20:45 [main] INFO  com.myapp.util.LoggerUtil - Hämtar de tre mest köpta produkterna..................
-2025-10-17 15:20:48 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 15:21:26 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
-2025-10-17 15:21:32 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
-2025-10-17 15:21:53 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: laddare, har tillagd: i kategorin: el, med priset: 90.0 kr
-2025-10-17 15:21:58 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 15:27:52 [main] INFO  com.myapp.util.LoggerUtil - Produkt: battari, har tillagd: i kategorin: el, med priset: 200.0 kr
-2025-10-17 15:27:54 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 15:36:14 [main] INFO  com.myapp.util.LoggerUtil - Produkt: tablet, har tillagd: i kategorin: el, med priset: 1500.0 kr
-2025-10-17 15:36:18 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 15:38:59 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: tangbordet, har tillagd: i kategorin: e, med priset: 300.0 kr
-2025-10-17 15:39:03 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 15:39:35 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
-2025-10-17 15:40:04 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 15:52:19 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Felaktigt pris: -90.0
-2025-10-17 15:52:29 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: kamera, har tillagd: i kategorin: el, med priset: 4800.0 kr
-2025-10-17 15:52:38 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 17:49:15 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: remote control, har tillagd: i kategorin: el, med priset: 800.0 kr
+2025-10-17 17:58:20 [main] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
+2025-10-17 17:58:22 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 17:58:41 [main] INFO  com.myapp.util.LoggerUtil - Produkt: Laptop, har tillagd: i kategorin: el, med priset: 9000.0 kr
+2025-10-17 17:59:02 [main] ERROR com.myapp.util.LoggerUtil - Felaktigt pris: -100.0
+2025-10-17 17:59:24 [main] INFO  com.myapp.util.LoggerUtil - Produkt: camera, har tillagd: i kategorin: el, med priset: 3000.0 kr
+2025-10-17 17:59:52 [main] INFO  com.myapp.util.LoggerUtil - Produkt: bed, har tillagd: i kategorin: home, med priset: 12000.0 kr
+2025-10-17 18:00:09 [main] INFO  com.myapp.util.LoggerUtil - Order med ID: 30cc3b42har lagts till kund: rasha
+2025-10-17 18:00:18 [main] ERROR com.myapp.util.LoggerUtil - Tom order för kund: reem
+2025-10-17 18:00:41 [main] INFO  com.myapp.util.LoggerUtil - Order med ID: cc952e2bhar lagts till kund: samia
+2025-10-17 18:00:45 [main] INFO  com.myapp.util.LoggerUtil - Hämtar alla produkter...............
+2025-10-17 18:00:48 [main] INFO  com.myapp.util.LoggerUtil - Hämtar alla ordrar...............
+2025-10-17 18:00:56 [main] INFO  com.myapp.util.LoggerUtil - Hämtar ordrar för kund: rasha.................
+2025-10-17 18:01:02 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades för kund: reem
+2025-10-17 18:01:15 [main] ERROR com.myapp.util.LoggerUtil - Det gick inte att visa produkter i kategorin "food"
+2025-10-17 18:01:20 [main] INFO  com.myapp.util.LoggerUtil - Hämtar produkter i kategorin: el  (sorterade efter pris) stigande...............
+2025-10-17 18:01:26 [main] INFO  com.myapp.util.LoggerUtil - Hämtar totalt värde spenderat för kund............... 
+2025-10-17 18:01:35 [main] ERROR com.myapp.util.LoggerUtil - Beräkning av spenderad summa misslyckades för kunden "asmahan".
+2025-10-17 18:01:38 [main] INFO  com.myapp.util.LoggerUtil - Hämtar de tre mest köpta produkterna..................
+2025-10-17 18:01:43 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
