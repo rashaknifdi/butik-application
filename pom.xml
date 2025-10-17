@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.myapp</groupId>
-    <artifactId>butik-application</artifactId>
+    <artifactId>my-butik-app</artifactId>
     <version>1.0.0</version>
-    <name>Butik Application</name>
+    <name>my-butik-app</name>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

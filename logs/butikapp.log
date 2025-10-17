@@ -1,3 +1,0 @@
-2025-10-17 12:25:22 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades för kund: 7
-2025-10-17 12:25:24 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
-2025-10-17 12:25:26 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
