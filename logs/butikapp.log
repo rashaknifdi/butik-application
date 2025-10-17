@@ -1,9 +1,12 @@
-2025-10-17 13:44:20 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 14:02:18 [main] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
-2025-10-17 14:02:18 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
-2025-10-17 14:02:20 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 14:09:12 [main] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
-2025-10-17 14:09:17 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
-2025-10-17 14:09:20 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
-2025-10-17 14:11:45 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: laptoooop, har tillagd: i kategorin: k, med priset: 90.0 kr
-2025-10-17 14:11:47 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:25:22 [main] ERROR com.myapp.util.LoggerUtil - Felaktigt pris: -800.0
+2025-10-17 14:25:36 [main] INFO  com.myapp.util.LoggerUtil - Produkt: laptop, har tillagd: i kategorin: el, med priset: 8000.0 kr
+2025-10-17 14:25:47 [main] INFO  com.myapp.util.LoggerUtil - Produkt: mus, har tillagd: i kategorin: el, med priset: 90.0 kr
+2025-10-17 14:26:04 [main] INFO  com.myapp.util.LoggerUtil - Order med ID: 36226866har lagts till kund: rasha
+2025-10-17 14:26:14 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades för kund: reem
+2025-10-17 14:26:27 [main] ERROR com.myapp.util.LoggerUtil - Det gick inte att visa produkter i kategorin "home"
+2025-10-17 14:26:39 [main] INFO  com.myapp.util.LoggerUtil - Hämtar produkter i kategorin: el  (sorterade efter pris) stigande...............
+2025-10-17 14:26:46 [main] INFO  com.myapp.util.LoggerUtil - Hämtar ordrar för kund: rasha.................
+2025-10-17 14:26:51 [main] ERROR com.myapp.util.LoggerUtil - Beräkning av spenderad summa misslyckades för kunden "reem".
+2025-10-17 14:26:57 [main] INFO  com.myapp.util.LoggerUtil - Hämtar totalt värde spenderat för kund............... 
+2025-10-17 14:27:01 [main] INFO  com.myapp.util.LoggerUtil - Hämtar de tre mest köpta produkterna..................
+2025-10-17 14:27:03 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
