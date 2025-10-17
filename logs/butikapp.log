@@ -1,3 +1,37 @@
 2025-10-17 12:25:22 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades för kund: 7
 2025-10-17 12:25:24 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
 2025-10-17 12:25:26 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 12:51:31 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: laptop, har tillagd: i kategorin: el, med priset: 900.0 kr
+2025-10-17 12:51:34 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 12:57:41 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: rasha, har tillagd: i kategorin: hh, med priset: 90.0 kr
+2025-10-17 12:57:47 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 13:06:24 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: u, har tillagd: i kategorin: o, med priset: 90.0 kr
+2025-10-17 13:06:28 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 13:08:29 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: llllllaptoooop, har tillagd: i kategorin: i, med priset: 90.0 kr
+2025-10-17 13:08:31 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 13:33:54 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Det gick inte att visa produkter i kategorin "k"
+2025-10-17 13:33:57 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Beräkning av spenderad summa misslyckades för kunden "9".
+2025-10-17 13:33:59 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 13:43:04 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Beräkning av spenderad summa misslyckades för kunden "j".
+2025-10-17 13:43:05 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 13:43:07 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:15:29 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades för kund: k
+2025-10-17 14:15:35 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:38:27 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:48:39 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:58:35 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades för kund: tt
+2025-10-17 14:58:53 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
+2025-10-17 14:58:54 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 14:58:57 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
+2025-10-17 14:58:58 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 14:58:59 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 15:06:04 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
+2025-10-17 15:06:05 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 15:06:07 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 15:09:25 [main] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
+2025-10-17 15:09:26 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 15:09:46 [main] INFO  com.myapp.util.LoggerUtil - Produkt: bed, har tillagd: i kategorin: home, med priset: 12000.0 kr
+2025-10-17 15:09:49 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 15:11:19 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: tv, har tillagd: i kategorin: el, med priset: 9000.0 kr
+2025-10-17 15:11:54 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: kudde, har tillagd: i kategorin: home, med priset: 200.0 kr
+2025-10-17 15:12:01 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
