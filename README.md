@@ -50,4 +50,7 @@ Jag har skapat flera egna undantag för att hantera affärslogikfel:
 - `NoProductsFoundException` – om det inte finns några produkter i systemet
 - `NoOrdersFoundException` – om det inte finns några ordrar att analysera
 
-Jag har valt att behålla flera undantag för att tydligt separera olika feltyper och göra loggning och felsökning enklare. Det
+## 👤 Utvecklare
+- Namn: Rasha Knifdi
+
+- Roll: Fullstack Java Student
