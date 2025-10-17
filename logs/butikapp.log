@@ -17,3 +17,15 @@
 2025-10-17 15:21:32 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
 2025-10-17 15:21:53 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: laddare, har tillagd: i kategorin: el, med priset: 90.0 kr
 2025-10-17 15:21:58 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 15:27:52 [main] INFO  com.myapp.util.LoggerUtil - Produkt: battari, har tillagd: i kategorin: el, med priset: 200.0 kr
+2025-10-17 15:27:54 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 15:36:14 [main] INFO  com.myapp.util.LoggerUtil - Produkt: tablet, har tillagd: i kategorin: el, med priset: 1500.0 kr
+2025-10-17 15:36:18 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 15:38:59 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: tangbordet, har tillagd: i kategorin: e, med priset: 300.0 kr
+2025-10-17 15:39:03 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 15:39:35 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 15:40:04 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 15:52:19 [com.myapp.MainApp.main()] ERROR com.myapp.util.LoggerUtil - Felaktigt pris: -90.0
+2025-10-17 15:52:29 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: kamera, har tillagd: i kategorin: el, med priset: 4800.0 kr
+2025-10-17 15:52:38 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 17:49:15 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: remote control, har tillagd: i kategorin: el, med priset: 800.0 kr

@@ -39,7 +39,38 @@ Jag har implementerat tre funktioner med Stream API:
 Alla funktioner är kommenterade och motiverade i koden.
 
 ---
+## 🧾 Loggning
+Jag använder SLF4J för att logga viktiga händelser:
 
+- När en produkt eller order läggs till
+- När ett fel uppstår (t.ex. tom order, negative value av pris)
+- När en analysfunktion körs
+
+Loggningen sker via en hjälparklass `LoggerUtil` och använder både `INFO` och `ERROR` beroende på situation.
+
+---
+
+## 🗂️ Loggning till fil med Logback
+För att förbättra loggningen har jag integrerat Logback som implementation av SLF4J.  
+Det gör att loggar inte bara visas i konsolen utan även sparas i en loggfil (`logs/butikapp.log`).  
+Detta underlättar felsökning och gör det möjligt att följa upp händelser i efterhand.  
+Loggningen styrs via en konfigurationsfil och sker automatiskt vid körning.
+
+---
+## 🧩 Klassöversikt
+Projektet är uppdelat i flera klasser med tydliga ansvarsområden enligt SOLID-principerna:
+
+- `MainApp` – startpunkt för programmet, visar menyn och delegerar till `MenuHandler`
+- `MenuHandler` – hanterar användarinteraktion, menyval och applikationsflödet
+- `Product` & `Order` – domänmodeller för produkter och ordrar
+- `ProductFactory` & `OrderFactory` – skapar objekt med unika ID
+- `ProductRepository` & `OrderRepository` – lagrar och hämtar data
+- `ShopService` – hanterar affärslogik för produkter och ordrar
+- `AnalyticsService` – analyserar försäljningsdata med Stream API
+- `LoggerUtil` – hanterar loggning med SLF4J
+- `Egna undantagsklasser` – hanterar affärslogikfel på ett tydligt sätt
+
+---
 ## 🚨 Undantagshantering
 Jag har skapat flera egna undantag för att hantera affärslogikfel:
 
@@ -50,6 +81,20 @@ Jag har skapat flera egna undantag för att hantera affärslogikfel:
 - `NoProductsFoundException` – om det inte finns några produkter i systemet
 - `NoOrdersFoundException` – om det inte finns några ordrar att analysera
 
+---
+## 🧪 Så kör du projektet via Git Bash, windows powershell eller terminalen:
+
+1. Klona projektet:
+   ```bash
+   git clone https://github.com/rashaknifdi/butik-application.git
+   cd butik-application
+   
+2. Kör med Maven:
+   ```bash
+   mvn compile
+   mvn exec:java
+
+---
 ## 👤 Utvecklare
 - Namn: Rasha Knifdi
 
