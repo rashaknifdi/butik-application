@@ -1,0 +1,9 @@
+2025-10-17 13:44:20 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:02:18 [main] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
+2025-10-17 14:02:18 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 14:02:20 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:09:12 [main] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
+2025-10-17 14:09:17 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 14:09:20 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:11:45 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - Produkt: laptoooop, har tillagd: i kategorin: k, med priset: 90.0 kr
+2025-10-17 14:11:47 [com.myapp.MainApp.main()] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
