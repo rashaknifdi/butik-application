@@ -18,3 +18,10 @@
 2025-10-17 14:34:52 [main] INFO  com.myapp.util.LoggerUtil - Order med ID: c1069550har lagts till kund: rasha
 2025-10-17 14:35:01 [main] INFO  com.myapp.util.LoggerUtil - Hämtar totalt värde spenderat för kund............... 
 2025-10-17 14:35:06 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:46:51 [main] ERROR com.myapp.util.LoggerUtil - Inga produkter hittades.
+2025-10-17 14:46:53 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 14:46:56 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:54:27 [main] INFO  com.myapp.util.LoggerUtil - Produkt: uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu, har tillagd: i kategorin: oooooooooooooo, med priset: 9.99999999999999E14 kr
+2025-10-17 14:54:31 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
+2025-10-17 14:56:14 [main] ERROR com.myapp.util.LoggerUtil - Inga ordrar hittades.
+2025-10-17 14:56:16 [main] INFO  com.myapp.util.LoggerUtil - du loggar ut nu från programmet
